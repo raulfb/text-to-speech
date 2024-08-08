@@ -24,6 +24,6 @@ python3 main.py
 ```
 
 ## Documentation
-[Gradio](https://www.gradio.app/)
-[Elevenlabs](https://elevenlabs.io/)
-[Translate](https://pypi.org/project/translate/)
+- [Gradio](https://www.gradio.app/)
+- [Elevenlabs](https://elevenlabs.io/)
+- [Translate](https://pypi.org/project/translate/)
